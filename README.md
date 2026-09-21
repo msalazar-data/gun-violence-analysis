@@ -57,6 +57,10 @@ gun-violence-analysis/
 └── README.md
 ```
 
+## Language
+
+The analysis report (Rmd / notebook text) is written in Spanish; this README is in English.
+
 ## Author
 
 Dámaso López, Alexis Aminadab · Islas Zicatl, Max Emiliano · Mares Guerra, José de Jesús · Martínez Sánchez, José Ricardo · Salazar Argáez, Miguel Angel — Statistical Methods and Mathematics for Data Science Diploma
