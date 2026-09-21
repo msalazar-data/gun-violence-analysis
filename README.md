@@ -21,7 +21,7 @@ Exploratory analysis of gun violence incidents in the United States (2013–2018
 
 ## Stack
 
-Python · Pandas · NumPy · Plotly · Seaborn · Matplotlib · Shapely · Scikit-learn · TensorFlow · Pathlib
+Python · Pandas · NumPy · Plotly · Seaborn · Matplotlib · Shapely · Pathlib
 
 ## Datasets
 
@@ -36,7 +36,7 @@ This project uses 3 public datasets. **None are included in the repository** due
 ## How to run
 
 ```bash
-git clone https://github.com/tu-usuario/gun-violence-analysis.git
+git clone https://github.com/msalazar-data/gun-violence-analysis.git
 cd gun-violence-analysis
 
 # Create data folder and download datasets (see table above)
